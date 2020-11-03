@@ -1,0 +1,41 @@
+.leftside, .rightside {
+    height: 50vh;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .leftside, .rightside {
+        height: 100vh;
+    }
+}
+
+.leftside {
+    background: #ffa62b;
+}
+
+.rightside {
+    background: white;
+}
+
+a {
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.box_1 {
+    background-color: white;
+    color: #ffa62b;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.box_2 {
+    background-color: #ffa62b;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 8px; 
+}
