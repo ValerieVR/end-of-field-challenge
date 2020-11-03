@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+    font-family: Roboto;
+    color: #6f7070;
+    margin-top: 20px;
+    
+}
+
+header {
+    text-transform: uppercase;
+    color: #417379;
+    padding-bottom: 0px;
+}
+
+main {
+    text-align: center;
+    padding-top: 10px;
+}
+
+span {
+    text-transform: uppercase;
+    color: #417379;
+    font-size: 32px;
+    font-family: Lalezar, 'Arial black';
+}
+
+p {
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.line {
+    width: 80%;
+    border: 0;
+    border-bottom: 1px dotted rgb(219, 219, 219);
+    background: rgb(219, 219, 219);
+}
+
