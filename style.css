@@ -10,7 +10,7 @@
 }
 
 .leftside {
-    background: #ffa62b;
+    background: #417379;
 }
 
 .rightside {
@@ -25,14 +25,14 @@ a {
 
 .box_1 {
     background-color: white;
-    color: #ffa62b;
+    color: #417379;
     padding: 15px 32px;
     text-align: center;
     border-radius: 8px;
 }
 
 .box_2 {
-    background-color: #ffa62b;
+    background-color: #417379;
     color: white;
     border: none;
     padding: 15px 32px;

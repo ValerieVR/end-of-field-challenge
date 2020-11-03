@@ -15,6 +15,11 @@ I just wanted to show all my current skills :see_no_evil:
 - PixelZoomer chrome extension
 - Google Fonts
 - Bootstrap
+- Flaticon
+- Measure-it
+
+## Deployment
+Github pages
 
 ## Results
 - main interface:
