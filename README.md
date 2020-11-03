@@ -23,8 +23,8 @@ Github pages
 
 ## Results
 - main interface: https://valerievr.github.io/end-of-field-challenge/
-- simple interface:
-- complex interface:
+- simple interface: https://valerievr.github.io/end-of-field-challenge/simple.html
+- complex interface: https://valerievr.github.io/end-of-field-challenge/complex.html
 
 ## Author and Rights
 Developed by [Valerie Van Renne](https://github.com/ValerieVR) for [BeCode](https://becode.org/)
